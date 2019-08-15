@@ -1,0 +1,47 @@
+body{
+    background-color: #e9ebec;
+}
+.video-list{
+    margin-top: 50px;
+}
+nav{
+    margin-bottom: 20px;
+}
+nav .mdui-container{
+    margin-left: auto;
+    margin-right: auto;
+}
+nav .mdui-typo-title{
+    margin-right: 10px;
+}
+nav .mdui-btn{
+    margin-top: -3px;
+}
+.video-item{
+    margin-bottom: 20px;
+}
+footer{
+    margin-top: 20px;
+    position: relative;
+    bottom: 0;
+    height: 50px;
+}
+footer span{
+    position: absolute;
+    padding-top: 15px;
+}
+.card-title{
+    padding: 15px 0 5px 20px;
+}
+.video-player{
+    margin: 5px 0 30px 0;
+}
+.random-video{
+    margin: 20px 0 0 0;
+}
+#comments{
+    margin: 30px 0 0 0;
+}
+.top-video img{
+    max-height: 500px;
+}
